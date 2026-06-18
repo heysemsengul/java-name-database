@@ -1,2 +1,2 @@
-# java-name-database
-Simple Name/Surname Database
+# java-fullname-generator
+Simple Fullname Generator
