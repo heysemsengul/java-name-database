@@ -1,2 +1,2 @@
-# java-fullname-generator
-Simple Fullname Generator
+# java-name-generator
+Simple Name Generator
